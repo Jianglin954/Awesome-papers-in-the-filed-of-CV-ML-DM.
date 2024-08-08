@@ -2226,7 +2226,7 @@ Notes: This work performs sample selection and feature selection simultaneously 
 Notes: This paper considers the use of Robust PCA in a CUR decomposition framework.
 
 
-
+1. **Efficient k-NN Search with Cross-Encoders using Adaptive Multi-Round CUR Decomposition.** *Nishant Yadav et al, arXiv 2023.*  [[PDF]](https://arxiv.org/pdf/2305.02996) [[Author]](https://nishant2yadav.github.io/)   
 
 
 
